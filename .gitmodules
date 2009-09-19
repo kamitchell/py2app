@@ -1,0 +1,3 @@
+[submodule "ez_setup"]
+	path = ez_setup
+	url = ../ez_setup.git
